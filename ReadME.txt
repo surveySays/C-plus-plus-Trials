@@ -1,0 +1,1 @@
+BlackjackCheck - a program to allow the user to choose 3 cards and checks whether or not they break 21. Code is in Source.cpp.
