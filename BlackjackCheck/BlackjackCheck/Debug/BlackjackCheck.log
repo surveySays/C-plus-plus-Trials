@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Boese\Documents\C++\C-plus-plus-Trials\BlackjackCheck\BlackjackCheck\Source.cpp(78,74): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Boese\Documents\C++\C-plus-plus-Trials\BlackjackCheck\BlackjackCheck\Source.cpp(78,93): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Boese\Documents\C++\C-plus-plus-Trials\BlackjackCheck\BlackjackCheck\Source.cpp(78,74): warning C4309: 'initializing': truncation of constant value
+  BlackjackCheck.vcxproj -> C:\Users\Boese\Documents\C++\C-plus-plus-Trials\BlackjackCheck\Debug\BlackjackCheck.exe
